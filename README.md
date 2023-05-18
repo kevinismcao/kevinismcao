@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+ 👋 Hi there, I am Ningxiao! 👋
+ <br></br>
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" height="100">
+</div>
 
 <!--
 **kevinismcao/kevinismcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
