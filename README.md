@@ -26,9 +26,9 @@ I found my passion in software engineering when I started learning basic coding 
 [linkedin]: https://www.linkedin.com/in/eduardobacsierra/
 [venturecamp]: https://venture-camp.herokuapp.com/
  
-## Reach me at:
+## My Projects:
   <div align="center">
-    ![] 
+    ![interestIn](https://github.com/kevinismcao/kevinismcao/blob/main/images/splashpage.gif)
   </div>
 </div>
 <!--
